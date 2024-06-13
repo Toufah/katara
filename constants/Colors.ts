@@ -23,4 +23,7 @@ export const Colors = {
     tabIconDefault: '#9BA1A6',
     tabIconSelected: tintColorDark,
   },
+  PRIMARY: "#1d3c5b",
+  BEIGE: '#f3ece4',
+  LIGHTBLUE: '#44c4dc'
 };
